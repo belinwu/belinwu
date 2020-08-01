@@ -1,5 +1,6 @@
-### Hi there 👋
+I'm an Android Developer working at [RingCentral](https://www.ringcentral.com).
 
+See my open source works on [Samelody](https://github.com/samelody)
 <!--
 **belinwu/belinwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
