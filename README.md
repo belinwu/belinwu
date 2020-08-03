@@ -1,6 +1,8 @@
 I'm an Android Software Engineer working at [RingCentral](https://www.ringcentral.com).
 
 See my open source works on [Samelody](https://github.com/samelody).
+
+![Belin Wu's Github Stats](https://github-readme-stats.vercel.app/api?username=belinwu)
 <!--
 **belinwu/belinwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
